@@ -1,0 +1,5 @@
+approach,fraud per customer x1.0,fraud per customer x1.5,fraud per customer x2.0
+Fixed rule,146.4,219.6,292.8
+"Ranked, 10% precision",12.2,18.2,24.3
+"Ranked, 25% precision",4.9,7.3,9.7
+"Ranked, 74% (simulated)",1.6,2.5,3.3
